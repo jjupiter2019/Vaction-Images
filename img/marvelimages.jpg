@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+    <header>
+     <a href="index.html">Marvel Images</a>
+    </header>
+    
+<nav>
+     <a href="index.html">Home</a> &nbsp; &nbsp;
+     <a href="index.html">About Us</a> &nbsp; &nbsp;
+     <a href="service.html">services</a> &nbsp; &nbsp;
+     <a href="photo.html">photos</a> &nbsp; &nbsp;
+     <a href="contact.html">Contact Us</a>
+<footer>
+     &copy; copyright 2015. All Rights Reserved.<br>
+     <a href="mailto:marvelimages@gmail.com">marvelimages@gmail.com
+</footer>
+    
+    <!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>GETTING STARTED WITH BRACKETS</h1>
+        <h2>This is your guide!</h2>
